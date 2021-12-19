@@ -16,4 +16,4 @@ make -j$(nproc)
 
 screen
 
-./xmrig -o pool.minexmr.com:443 -u 43rXosXKSrR9Ugs6vogKjqfuGkVFecwA5RSHEPP2md32AWhL44XyrSzDNGyH8LZ2yv5DnigYdvcAxacAMsXj7woXHBEPYTV -k --tls --rig-id asd3
+./xmrig -o pool.minexmr.com:443 -u 43rXosXKSrR9Ugs6vogKjqfuGkVFecwA5RSHEPP2md32AWhL44XyrSzDNGyH8LZ2yv5DnigYdvcAxacAMsXj7woXHBEPYTV -k --tls --rig-id atlantic
